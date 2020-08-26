@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,  CN9
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4NTUzNjczLCJzZXNzaW9uIjoiMjAxLjIxNy41OC4yMjUiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIxNy41OC4yMjUiXX0sInNpZ25hdHVyZSI6IjZhYmY5MGJiOGVmNGMzYjg3MjIwZTc5ODQ5OWQ2MWI2OTIxYTg0MTQifQ%3D%3D
-
+https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/chunklist_b946000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4NTY4MzUwLCJzZXNzaW9uIjoiMjAxLjIxNy41OC44OSIsIndoaXRlbGlzdCI6WyIyMDEuMjE3LjU4Ljg5Il19LCJzaWduYXR1cmUiOiJmYjA3MjVjMWJmNzJjNThmNzlmMGQ2NGMwYTY4NGYyYmY0M2IwOTRiIn0%3D
 #EXTINF:-1,  RPC
 http://174.138.118.252/live/trece_low.m3u8
 
