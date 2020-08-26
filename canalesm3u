@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1,  CN9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4NTUzNjczLCJzZXNzaW9uIjoiMjAxLjIxNy41OC4yMjUiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIxNy41OC4yMjUiXX0sInNpZ25hdHVyZSI6IjZhYmY5MGJiOGVmNGMzYjg3MjIwZTc5ODQ5OWQ2MWI2OTIxYTg0MTQifQ%3D%3D
+
+#EXTINF:-1,  RPC
+http://174.138.118.252/live/trece_low.m3u8
+
+#EXTINF:-1,  TELEFUTURO
+https://copaco.desdeparaguay.net/telefuturo/telefuturo_py_med/chunklist_w2069185918.m3u8?k=7dccd168a3d33184e37ef5e06142257d464c1efc79d4f6ae3487c6c46e16a554&exp=1598468542
