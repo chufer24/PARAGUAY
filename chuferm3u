@@ -11,5 +11,11 @@ https://copaco.desdeparaguay.net/telefuturo/telefuturo_py_med/chunklist_w2069185
 #EXTINF:-1,  CNT
 https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4NTY5MzEzLCJzZXNzaW9uIjoiMjAxLjIxNy41OC4yNSIsIndoaXRlbGlzdCI6WyIyMDEuMjE3LjU4LjI1Il19LCJzaWduYXR1cmUiOiJhYzcyZTBjZGNjZGNhM2JhMWY0OTAxMWQ2MjkwOWE3MzNiNjAyM2MxIn0%3D
 
-#EXTINF:-1,  olimpia
-https://d3lsvc60gpnpye.cloudfront.net/out/v1/224d82dc788946d2956b642476f65e72/index_8.m3u8
+#EXTINF:-1,  La tele
+https://tigocloud.desdeparaguay.net/latele/latele_py_med/chunklist_w747761818.m3u8?k=d7add012864d926a46ced885eec3b2702448c5509d2eb0d903953e06ea8edfbb&exp=1598538156
+
+#EXTINF:-1,  NPY
+https://tigocloud.desdeparaguay.net/npy/npy_py_med/chunklist_w1794954606.m3u8?k=c300c8fae176d2763323036ffbdd5a76e556dd5de1979b649c0666911bf6ae7b&exp=1598538006
+
+#EXTINF:-1,  ABC TV
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-776444385&e=t&n=5462144468057624&abc=1&aid=CCpL_G%2BdEeqHmVofEFuAmQ&amp=0&ask=vKOn16Qy&at=1&c=1&ccp=0&cp=0&d=0&eb=0&ed=6&emi=neaq22ik8blr&i=1&id=0qRytEJD&lid=10a7ri7v8oeo&lsa=read&mt=0&pbd=1&pbr=1&pgi=108cvkmktswu&ph=3&pid=bL2g5Vmx&pii=0&pl=388&plc=1&pli=inmufo1xlazb&pp=hlsjs&ppm=DVR&prc=1&ps=4&pss=1&pt=ABCColor%20Live%20Channel&pu=https%3A%2F%2Fwww.abc.com.py%2Ftv%2F&pv=8.17.3&pyc=1&s=1&sdk=0&stc=1&stpe=0&t=ABCColor%20Live%20Channel&tv=3.31.0&vb=1&vi=1&vl=90&wd=690&abm=1&ati=20&avc=1&bwe=5469&dle=27.228374999999687&fid=885514dd-7750-4f17-b37b-82caf6ebd1bd&fls=0&fsm=0&ltc=1895&mu=https%3A%2F%2Fd2e809bgs49c6y.cloudfront.net%2Flive%2Fd87c2b7b-9ecf-4e6e-b63b-b32772bd7851%2Flive.isml%2Fd87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8&pbs=0&pcp=3595&pw=-1&q=0&sbr=598&ti=20&ubi=0&vh=360&vti=20&vw=640&sa=1598537883275
