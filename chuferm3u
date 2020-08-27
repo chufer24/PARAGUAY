@@ -32,5 +32,14 @@ https://2201.janjua.pw:8088/adfree/directvhd11/chunklist_w1670518587.m3u8?id=983
 #EXTINF:-1,  real madrid tv
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,  CN9
-https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/chunklist_b946000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4NTY4MzUwLCJzZXNzaW9uIjoiMjAxLjIxNy41OC44OSIsIndoaXRlbGlzdCI6WyIyMDEuMjE3LjU4Ljg5Il19LCJzaWduYXR1cmUiOiJmYjA3MjVjMWJmNzJjNThmNzlmMGQ2NGMwYTY4NGYyYmY0M2IwOTRiIn0%3D
+#EXTINF:-1,  CANAL 9 ARGENTINA
+https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4NjI5NzcxLCJzZXNzaW9uIjoiMTgxLjEyMi4yMTUuMjM2Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjIuMjE1LjIzNiJdfSwic2lnbmF0dXJlIjoiMmZiOTRiOTVjZTMyMDFjODlhOTQ5OWMzZDc3ODY4MjYzZjk4YzZhNCJ9
+
+#EXTINF:-1,  UNICANAL
+http://45.55.127.106/live/unicanal_mid.m3u8
+
+#EXTINF:-1,  america tv argentina
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/7a4aa17b-14ec-4c0b-bae7-ef169315e366:SCL/variant/926d22b48e268d206b05dafb5866c540/bandwidth/646000.m3u8
+
+#EXTINF:-1,  unicanal 2
+http://45.55.127.106/live/unicanal_low.m3u8
