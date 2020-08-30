@@ -46,3 +46,6 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/
 
 #EXTINF:-1,  CANAL 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w248837998_b2628000_sleng.m3u8
+
+#EXTINF:-1, Clasico
+https://bdb93b1a68c037d3fcf0d15b6635e7ad.egress.mediapackage-vod.us-east-1.amazonaws.com/out/v1/18f7f2613eed49909cd2bd74706f747e/fbbab08718c34a51860a96c1ddb915f7/d22a003db03a4291ac6c646f0906832f/3b8af9047d96439aa8d2922edc7ec2e8/1c534ae50141454dbb6007386192380a/index_2.m3u8?t=WGVIZHV5YnBtbEdlOURWT3F2TUJCaGZpaHAyM3ZyUjVLVC9HSUpaajhESHFuSjFkMTlDWVZkSkhlV0JXMUFZRA==&i=V1BxSHFHNE1nU2d1T3dSOTIvR0tOZS9jaitYOC9BcURVb043a3pwSWhlckJrS3VTbEFxQnBxK3pDSi9rd081ZEorc1pheGY5S1NQZ1dSTFd1ekFVandMT2RQSkFhTUhhbXUzdnJ0WnB4TE1pVDBGWG1YTHN5TnFBMFFPRjJIbnM=
