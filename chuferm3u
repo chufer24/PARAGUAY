@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,  CN9
-https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/chunklist_b946000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4NTY4MzUwLCJzZXNzaW9uIjoiMjAxLjIxNy41OC44OSIsIndoaXRlbGlzdCI6WyIyMDEuMjE3LjU4Ljg5Il19LCJzaWduYXR1cmUiOiJmYjA3MjVjMWJmNzJjNThmNzlmMGQ2NGMwYTY4NGYyYmY0M2IwOTRiIn0%3D
+https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/chunklist_b946000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk5MzQzMjY4LCJzZXNzaW9uIjoiMjAxLjIxNy41OC45OSIsIndoaXRlbGlzdCI6WyIyMDEuMjE3LjU4Ljk5Il19LCJzaWduYXR1cmUiOiJkNWZkMDk3N2EzZjU1NzY4NTM4ZDc0MTA4NTM2NDk3ZjZkYTAyN2Q5In0%3D
 #EXTINF:-1,  RPC
 http://174.138.118.252/live/trece_low.m3u8
 
@@ -9,8 +9,7 @@ http://174.138.118.252/live/trece_low.m3u8
 https://copaco.desdeparaguay.net/telefuturo/telefuturo_py_med/chunklist_w2069185918.m3u8?k=7dccd168a3d33184e37ef5e06142257d464c1efc79d4f6ae3487c6c46e16a554&exp=1598468542
 
 #EXTINF:-1,  CNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4NTY5MzEzLCJzZXNzaW9uIjoiMjAxLjIxNy41OC4yNSIsIndoaXRlbGlzdCI6WyIyMDEuMjE3LjU4LjI1Il19LCJzaWduYXR1cmUiOiJhYzcyZTBjZGNjZGNhM2JhMWY0OTAxMWQ2MjkwOWE3MzNiNjAyM2MxIn0%3D
-
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk5MzQzNDExLCJzZXNzaW9uIjoiMjAxLjIxNy41OC45OSIsIndoaXRlbGlzdCI6WyIyMDEuMjE3LjU4Ljk5Il19LCJzaWduYXR1cmUiOiJjZTNlMjk1OTVlOTdiZjQ4NjU1OGQ2OTIyNDNhOTEwMDY4M2E5MDIyIn0%3D
 #EXTINF:-1,  La tele
 https://tigocloud.desdeparaguay.net/latele/latele_py_med/chunklist_w747761818.m3u8?k=d7add012864d926a46ced885eec3b2702448c5509d2eb0d903953e06ea8edfbb&exp=1598538156
 
@@ -33,8 +32,7 @@ https://2201.janjua.pw:8088/adfree/directvhd11/chunklist_w1670518587.m3u8?id=983
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,  CANAL 9 ARGENTINA
-https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4NjI5NzcxLCJzZXNzaW9uIjoiMTgxLjEyMi4yMTUuMjM2Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjIuMjE1LjIzNiJdfSwic2lnbmF0dXJlIjoiMmZiOTRiOTVjZTMyMDFjODlhOTQ5OWMzZDc3ODY4MjYzZjk4YzZhNCJ9
-
+https://ar-elnueve-elnueve-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk5MzQzNzEzLCJzZXNzaW9uIjoiMjAxLjIxNy41OC45OSIsIndoaXRlbGlzdCI6WyIyMDEuMjE3LjU4Ljk5Il19LCJzaWduYXR1cmUiOiJiODQ0YzZjNDY5ZGFhYzQxYmRjOWQ0NzkzYzI2MzRiOGM2YzFjY2M3In0%3D
 #EXTINF:-1,  UNICANAL
 http://45.55.127.106/live/unicanal_mid.m3u8
 
@@ -42,7 +40,7 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/7a4aa17b-14ec-4c0b-bae7-ef169315e366:SCL/variant/926d22b48e268d206b05dafb5866c540/bandwidth/646000.m3u8
 
 #EXTINF:-1,  ABC TV
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=1040000.m3u8
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=1040000.m3u8https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=750000.m3u8
 
 #EXTINF:-1,  CANAL 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w248837998_b2628000_sleng.m3u8
